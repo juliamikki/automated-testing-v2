@@ -1,0 +1,20 @@
+*{
+	text-align: center;
+}
+H1{		
+	font-size: 300%;
+	font-family:  Century Gothic, sans-serif;
+	color: #333366;
+}
+P {
+	font-family: Comic Sans MS, sans-serif; 
+	color: lightslategray;
+}
+Table {
+	margin-left:auto; 
+    margin-right:auto;
+	border: 2px solid ;
+	background-color: lavenderblush;
+	height:150px;
+	width:300px;
+}
